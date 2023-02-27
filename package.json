@@ -69,7 +69,7 @@
     "string-width": "4.2.2",
     "supertest": "6.1.3",
     "tosource": "2.0.0-alpha.3",
-    "vuepress": "1.8.2",
+    "vuepress": "1.9.9",
     "yorkie": "2.0.0"
   },
   "dependencies": {
